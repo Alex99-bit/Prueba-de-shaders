@@ -2801,7 +2801,7 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_RedChannel": true,
+    "m_RedChannel": false,
     "m_GreenChannel": false,
     "m_BlueChannel": false
 }
@@ -2932,8 +2932,8 @@
     },
     "m_Color": {
         "color": {
-            "r": 0.15566039085388184,
-            "g": 0.8615836501121521,
+            "r": 0.5330188274383545,
+            "g": 0.8329921960830689,
             "b": 1.0,
             "a": 1.0
         },
